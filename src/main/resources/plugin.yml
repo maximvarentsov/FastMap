@@ -1,0 +1,5 @@
+name: ${artifactId}
+main: ${groupId}.${artifactId}
+author: Maxim Varentsov <admin@gtn-craft.ru>
+version: ${version}
+depend: [ProtocolLib]
