@@ -6,7 +6,7 @@
 
     <groupId>ru.gtncraft.fastmap</groupId>
     <artifactId>FastMap</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -52,7 +52,7 @@
         <dependency>
             <groupId>com.comphenix.protocol</groupId>
             <artifactId>ProtocolLib</artifactId>
-            <version>3.4.0</version>
+            <version>LATEST</version>
         </dependency>
         <dependency>
             <groupId>org.bukkit</groupId>
